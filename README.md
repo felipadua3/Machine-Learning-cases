@@ -1,6 +1,6 @@
 # Machine Learning Cases
 
-## Status: under construction
+### Status: under construction
 
 It's a study case using machine learning procedures, where I could show some examples in diferente areas and features to solve some basic-complex situations.
 
@@ -8,9 +8,9 @@ It's a study case using machine learning procedures, where I could show some exa
 
 * SVM (Support Vector Machine):
 
-    SVM_code_exemplo.py <https://github.com/felipadua3/Machine-Learning-cases/blob/master/SVM_code_exemplo.py> : Used to solve data classification cases
+    [SVM_code_exemplo.py](https://github.com/felipadua3/Machine-Learning-cases/blob/master/SVM_code_exemplo.py) : Used to solve data classification cases
 
-### Technologies used until moment: 
+### Technologies used so far: 
 
 * Phyton
 
